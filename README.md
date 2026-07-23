@@ -245,4 +245,10 @@ Through this project, I learned:
 
 **Dnyaneshwar Magar**
 
+GitHub:
+https://github.com/dnyaneshwarmagar
+
+LinkedIn:
+https://www.linkedin.com/in/dnyaneshm
+
 If you found this project useful, don't forget to ⭐ the repository.
